@@ -1,0 +1,20 @@
+Firebase Hosting Steps:
+
+Go to console.firebase.google.com --> create new project --> 
+enter project name then click next --> disable google analytics --> press create project
+
+1. On Desktop run: npm install --global firebase-tools
+2. then run firebase login (to connect your files to firebase)
+3. On project directory: run firebase init
+				a) press y (yes) and enter
+				b) select hosting by pressing
+				   spacebar and then enter
+				c) select use existing project
+				   then select the project
+				d) simply press enter for the
+				   public directory/folder
+				e) press y (Yes) and Enter (for index file)
+				f) press n (no) and enter (for github hosting)
+4. Move all of your files in the public directory/folder
+   (Make sure that your main file name is index)
+5. simply run: firebase deploy (in cmd)
