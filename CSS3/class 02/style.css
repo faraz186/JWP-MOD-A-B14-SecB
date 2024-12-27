@@ -1,0 +1,81 @@
+@font-face {
+  src: url(./fonts/AguDisplay-Regular-VariableFont_MORF.ttf);
+  font-family: "faraz";
+}
+/* CSS selectors */
+
+/* * {
+  background-color: black;
+  color: red;
+}
+
+
+body{
+
+}
+
+
+#heading1{
+    color: white;
+    background-color: black;
+}
+
+#para{
+    color: red;
+    background-color: black;
+}
+
+
+
+#box > .p1 {
+    color: green;
+}
+
+
+#box .p2 {
+  color: blue;
+}
+
+
+h1~p{
+    color: orangered;
+}
+
+
+div > .p1 {
+  color: red;
+}
+
+
+div .p1 {
+  color: red;
+} */
+
+/* RGB (RED,GREEN,BLUE) values */
+/* 0-255 0-255 0-255  */
+/* 
+.agu-display {
+  font-family: "Agu Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "MORF" 0;
+} */
+h1 {
+  font-family: "Agu Display", serif;
+  font-weight: lighter;
+  color: purple;
+  background-color: rgb(220, 96, 96, 0.3);
+}
+
+p {
+  font-family: "faraz";
+  color: green;
+  /* opacity: 50%; */
+
+  /* 1 */
+
+  /* 0 */
+
+  /* 0-1 0.10.20.3.4.5.6.7.8.91 */
+}

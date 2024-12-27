@@ -1,0 +1,67 @@
+/* @font-face {
+  font-family: faraz;
+  src: url(./IBMPlexSans-LightItalic.ttf);
+}
+
+div {
+    font-family: faraz;
+}
+
+h1 {
+    font-family: "Playwrite MX Guides", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+  font-family: "Poppins", serif, monospace;
+  font-weight: 400;
+  font-style: italic;
+} */
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+  line-height: 50px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h1 {
+  text-transform: capitalize;
+}
+
+.child1 {
+  font-weight: bold;
+  color: red;
+  font-style: oblique;
+  text-transform: uppercase;
+}
+
+p {
+  text-transform: uppercase;
+}
+
+.child2 {
+  font-weight: bold;
+  text-transform: uppercase;
+  color: green;
+}
+
+h1 {
+  /* text-decoration: line-through; */
+  /* letter-spacing: 10px; */
+  text-shadow: 5px 10px 20px red;
+}
+p {
+  word-spacing: 24px;
+  text-align: justify;
+  text-indent: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
