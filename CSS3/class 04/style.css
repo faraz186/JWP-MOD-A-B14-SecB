@@ -1,0 +1,47 @@
+.first_para::first-letter {
+  font-size: 60px;
+  /* color: red;
+  background-color: blue; */
+}
+.first_para::first-line {
+  color: red;
+}
+
+/* span {
+  color: red;
+} */
+
+a:link {
+  color: brown;
+}
+
+a:visited {
+  color: black;
+}
+
+h1:hover {
+  color: white;
+  background-color: black;
+}
+
+a:active {
+  color: red;
+}
+
+button {
+  background-color: blue;
+  color: aqua;
+}
+
+button:hover {
+  color: aliceblue;
+  background-color: black;
+}
+button:active {
+  color: cornflowerblue;
+  background-color: coral;
+}
+
+input:focus {
+  background-color: blanchedalmond;
+}
