@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p[class*="pa"] {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-transform: capitalize;
+  color: blue;
+}
+
+p[class^="a"] {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-transform: capitalize;
+  color: blue;
+}
+
+p[class~="a"] {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-transform: capitalize;
+  color: blue;
+}
+
+/* %,px,em,vh,vw  (View Height. View Width)*/
+
+p {
+  background-color: black;
+  border: 5px solid red;
+  width: 100%;
+  font-size: 50px;
+}
+
+div > img {
+  width: 100%;
+}
+
+div {
+  border: 5px solid red;
+  min-width: 250px;
+  max-width: 800px;
+}
+
+div {
+  border: 5px solid red;
+  width: 700px;
+  min-height: 200px;
+  max-height: 400px;
+  overflow-x: hidden;
+}
+
+a {
+  background-color: black;
+  color: white;
+}
+
+.para_border {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  border: 5px red solid;
+  border-top: 2px double red;
+  border-right: 2px solid blue;
+  border-bottom: 2px double green;
+  border-left-color: yellow;
+  border-right-color: blue;
+  padding: 20px;
+  margin: 10px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.para {
+  border-left: 2px solid black;
+  border-top: none;
+  padding: 20px 10px 50px 30px;
+  margin: 60px;
+}
