@@ -1,4 +1,4 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -60,7 +60,7 @@ li > a {
   color: black;
   padding: 10px;
   border-radius: 15px;
-} */
+}
 
 ul {
   list-style-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8mESgkdq_13u2MJ33JJXv5F7jKGDcAMl9w&s");
