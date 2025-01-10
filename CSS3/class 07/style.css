@@ -72,22 +72,22 @@ ul {
   list-style: inside armenian;
 }
 
-/* .one {
+.one {
   border: 1px solid black;
   width: 300px;
   empty-cells: show;
   border-collapse: collapse;
   border-spacing: 10px 30px;
-} */
+}
 
-/* tr,
+tr,
 td {
   border: 1px solid black;
-} */
+}
 
-/* tr:hover {
+tr:hover {
   background-color: lightgreen;
-} */
+}
 
 input.email {
   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/014/321/535/small/message-icon-logo-design-vector.jpg");
