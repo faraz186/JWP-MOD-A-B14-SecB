@@ -1,0 +1,116 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+ul {
+  background-color: rgb(58, 58, 58);
+  padding: 20px;
+}
+
+li {
+  display: inline;
+  padding-right: 20px;
+}
+
+li > a {
+  text-decoration: none;
+  color: white;
+}
+
+.list1 {
+  font-weight: bold;
+  font-size: 24px;
+  margin-right: 750px;
+}
+
+.card-layout {
+  width: 350px;
+  margin: 40px;
+  display: inline-block;
+  border: 0.5px solid grey;
+  border-radius: 20px;
+  height: 400px;
+}
+
+.card-layout > img {
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+}
+
+.card-layout > h3 {
+  margin: 10px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.card-layout p {
+  margin: 10px;
+  text-align: justify;
+}
+
+.card-layout > button {
+  margin: 10px;
+  width: 70%;
+  margin-left: 40px;
+  border: none;
+  background-color: cyan;
+  color: black;
+  padding: 10px;
+  border-radius: 15px;
+} */
+
+ul {
+  list-style-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO8mESgkdq_13u2MJ33JJXv5F7jKGDcAMl9w&s");
+  margin-left: 500px;
+  font-size: 50px;
+  background-color: orange;
+  /* list-style-position: inside;
+  list-style-type: armenian; */
+  list-style: inside armenian;
+}
+
+/* .one {
+  border: 1px solid black;
+  width: 300px;
+  empty-cells: show;
+  border-collapse: collapse;
+  border-spacing: 10px 30px;
+} */
+
+/* tr,
+td {
+  border: 1px solid black;
+} */
+
+/* tr:hover {
+  background-color: lightgreen;
+} */
+
+input.email {
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/014/321/535/small/message-icon-logo-design-vector.jpg");
+
+  background-size: 20px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  border: none;
+}
+
+input.password {
+  background-image: url("https://icons.veryicon.com/png/o/business/pinjamango2018/password-32.png");
+
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding-left: 20px;
+  border: none;
+}
+
+input.email:focus {
+  outline: none;
+}
+
+input.password:focus {
+  outline: none;
+}
