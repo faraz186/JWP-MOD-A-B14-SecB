@@ -1,0 +1,156 @@
+@import url("./style2.css");
+
+form {
+  width: 300px;
+  margin: 20px auto;
+}
+
+fieldset {
+  width: 300px;
+  margin: 40px auto;
+  border: 1px solid green;
+  border-radius: 8px;
+}
+
+legend {
+  background-color: rosybrown;
+  color: black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+input.username {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/709/709699.png");
+  background-size: 14px;
+  background-repeat: no-repeat;
+  padding: 2px 0px 2px 20px;
+  border: 1px solid black;
+}
+
+input.email {
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/052/933/905/small/white-envelope-icon-with-transparent-background-png.png");
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding: 2px 0px 2px 20px;
+  border: 1px solid black;
+}
+
+input.password {
+  background-image: url("https://icons.veryicon.com/png/o/business/pinjamango2018/password-32.png");
+  background-size: 18px;
+  background-repeat: no-repeat;
+  padding: 2px 0px 2px 20px;
+  border: 1px solid black;
+}
+
+input.username:focus {
+  outline: none;
+  border: 1px solid red;
+}
+
+input.email:focus {
+  outline: none;
+  border: 1px solid red;
+}
+
+input.password:focus {
+  outline: none;
+  border: 1px solid red;
+}
+
+button {
+  border: none;
+  background-color: royalblue;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 8px;
+  cursor: move;
+}
+
+button:hover {
+  box-shadow: 0 0 20px royalblue;
+}
+
+body {
+  background-color: rgb(127, 211, 211);
+}
+
+.black {
+  background-color: black;
+  width: 240px;
+  display: inline-block;
+  height: 180px;
+}
+
+.white {
+  background-color: white;
+  width: 240px;
+  display: inline-block;
+  height: 180px;
+}
+
+img {
+  z-index: -1;
+  position: absolute;
+  top: 200px;
+  right: 48%;
+}
+
+img {
+  position: relative;
+  right: 55%;
+  bottom: 50px;
+}
+img {
+  position: fixed;
+  top: 450px;
+  right: 50px;
+}
+
+p {
+  z-index: 5;
+}
+
+.red {
+  background-color: red;
+  width: 600px;
+  height: 80px;
+  float: left;
+}
+
+.blue {
+  background-color: blue;
+
+  float: left;
+  width: 200px;
+  height: 80px;
+}
+
+.green {
+  background-color: green;
+
+  float: left;
+  width: 150px;
+  height: 80px;
+}
+
+.orange {
+  background-color: orange;
+
+  float: left;
+  width: 100px;
+  height: 80px;
+}
+
+p {
+  clear: both;
+}
+
+h1 {
+  width: 300px;
+  margin: 0 auto;
+  background-color: cyan;
+  color: black;
+  border-radius: 15px;
+  text-align: center;
+}
