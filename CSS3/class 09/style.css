@@ -30,7 +30,7 @@ div {
   width: 900px;
   height: 400px;
   background: linear-gradient(
-      90deg,
+      90deg, 
       rgba(173, 96, 96, 0.7) 70%,
       rgba(238, 197, 120, 0.7) 30% 
     ),
