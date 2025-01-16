@@ -32,7 +32,7 @@ div {
   background: linear-gradient(
       90deg,
       rgba(173, 96, 96, 0.7) 70%,
-      rgba(238, 197, 120, 0.7) 30%
+      rgba(238, 197, 120, 0.7) 30% 
     ),
     url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTESXFPAERvHIPobNGERirpby1oimQmwmNony5Nh2jHGd6QW019L7At7CzQh5QsrsYoE&usqp=CAU")
       no-repeat;
