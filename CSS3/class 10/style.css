@@ -16,7 +16,7 @@ h1 {
 
 /* Tablet screen size */
 
-/* @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   body {
     background-color: lightblue;
   }
@@ -42,7 +42,7 @@ h1 {
     width: 100%;
   }
 }
- */
+
 
 .container {
   background-color: lightcoral;
