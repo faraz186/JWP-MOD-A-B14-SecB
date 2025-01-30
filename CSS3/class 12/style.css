@@ -1,0 +1,97 @@
+/* * {
+  margin: 0;
+  padding: 0;
+} */
+
+/* .box {
+  height: 500px;
+  background-color: lightgreen;
+  display: flex; */
+/* flex-direction: row;
+  flex-wrap: wrap-reverse; */
+
+/* flex-flow: row wrap; */
+
+/* justify-content works only x-axis or horizontal */
+
+/* justify-content: space-between; */
+
+/* column-gap: 10px; */
+
+/* align-items works only y-axis or vertical */
+
+/* align-items: center; */
+
+/* align-content move more than two line vertically move */
+
+/* align-content: center; */
+
+/* row-gap: 20px;
+  column-gap: 10px; */
+
+/* gap: 20px 10px; */
+/* } */
+
+/* .div1 {
+  order: 4;
+  align-self: center;
+}
+
+.div2 {
+  order: 3;
+  flex-basis: 100px;
+  align-self: flex-end;
+}
+
+.div3 {
+  order: 2;
+  align-self: center;
+}
+
+.div4 {
+  order: 1;
+} */
+
+.layout {
+  display: flex;
+  margin: 30px;
+  column-gap: 70px;
+  text-align: justify;
+}
+
+h1 {
+  color: green;
+  text-transform: capitalize;
+}
+
+p {
+  color: grey;
+  font-size: 17px;
+}
+
+img {
+  width: 650px;
+}
+
+@media only screen and (max-width: 950px) {
+  img {
+    width: 450px;
+  }
+}
+
+@media only screen and (max-width: 745px) {
+  .layout {
+    flex-direction: column;
+  }
+  h1 {
+    width: 100%;
+  }
+
+  p {
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+  }
+}
