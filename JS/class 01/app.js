@@ -1,5 +1,5 @@
 // there are 3 ways to check output of your program
-               
+                
 // on browser
 
 // alert()             ====> JS builtin function
