@@ -1,0 +1,37 @@
+
+Internal JS
+
+<script>
+
+
+
+
+
+</script>
+
+
+
+External JS
+
+----------------------------------------------------------------
+
+
+programming langauge vs scripting langauge
+
+
+JavaScript is a scripting language
+
+
+
+Java
+
+programming langauge is a standalone language
+
+
+runtime error
+
+105 521
+
+
+execution time error
+
