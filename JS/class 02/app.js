@@ -37,7 +37,7 @@ var c = a/b;
 alert(c)
 
 
-var a = 9/3+(4-6)*2
+var a = 9/3+(4-6)*2  
 alert(a)
 
 var a;
