@@ -12,6 +12,7 @@ var b = 8;
 var c = a+b;
 alert(c)
 
+
 var x = "ali";
 var y = 10;
 var z = x+y;
