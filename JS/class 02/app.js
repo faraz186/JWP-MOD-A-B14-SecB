@@ -40,12 +40,12 @@ alert(c)
 var a = 9/3+(4-6)*2
 alert(a)
 
-// var a;
-// a=5;
+var a;
+a=5;
 
-// var x = 10;
-// var y = x%3;
-// alert(y);
+var x = 10;
+var y = x%3;
+alert(y);
 
 // i++ (Post Increment) (Pehlay i ko print krayga phir ek add krayga)
 // ++i (Pre Increment) (Pehlay ek add krayga phir i ko print krayga)
