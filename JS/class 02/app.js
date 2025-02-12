@@ -6,15 +6,16 @@ console.log("Learning \n JS...");
 
 alert("Welcome \n To \n learning JS...");
 
-// var a = 5;
-// var b = 8;
-// var c = a+b;
-// alert(c)
 
-// var x = "ali";
-// var y = 10;
-// var z = x+y;
-// alert(z)
+var a = 5;
+var b = 8;
+var c = a+b;
+alert(c)
+
+var x = "ali";
+var y = 10;
+var z = x+y;
+alert(z)
 
 // var f = "15";
 // var g = 25;
