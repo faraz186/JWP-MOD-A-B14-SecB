@@ -9,7 +9,7 @@ alert("Welcome \n To \n learning JS...");
 
 var a = 5;
 var b = 8;
-var c = a+b;
+var c = a+b;  
 alert(c)
 
 
