@@ -1,8 +1,8 @@
-// alert("Welcome To learning JS...");
+alert("Welcome To learning JS...");
 
-// document.write("<h1><i>Learning JS...</i></h1>");
+document.write("<h1><i>Learning JS...</i></h1>");
 
-// alert("Welcome \n To \n learning JS...");
+alert("Welcome \n To \n learning JS...");
 
 // var a = 5;
 // var b = 8;
