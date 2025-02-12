@@ -1,4 +1,4 @@
-alert("Welcome To learning JS...");
+alert("Welcome To learning JS...");  
       
 document.write("<h1><i>Learning JS...</i></h1>");
 
