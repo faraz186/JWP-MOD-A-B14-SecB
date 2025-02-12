@@ -18,20 +18,23 @@ var y = 10;
 var z = x+y;
 alert(z)
 
-// var f = "15";
-// var g = 25;
-// var h = f+g;
-// alert(h);
 
-// var r="rohan";
-// var s = 3;
-// var t = r*s;
-// alert(t)
+var f = "15";
+var g = 25;
+var h = f+g;
+alert(h);
 
-// var a = "7";
-// var b = 9;
-// var c = a/b;
-// alert(c)
+
+var r="rohan";
+var s = 3;
+var t = r*s;
+alert(t)
+
+
+var a = "7";
+var b = 9;
+var c = a/b;
+alert(c)
 
 // var a = 9/3+(4-6)*2
 // alert(a)
