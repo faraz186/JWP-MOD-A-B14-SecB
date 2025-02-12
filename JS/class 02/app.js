@@ -15,7 +15,7 @@ alert(c)
 
 var x = "ali";
 var y = 10;
-var z = x+y;
+var z = x+y; 
 alert(z)
 
 
