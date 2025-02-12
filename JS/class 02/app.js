@@ -1,6 +1,6 @@
 alert("Welcome To learning JS...");  
          
-document.write("<h1><i>Learning JS...</i></h1>");
+document.write("<h1><i>Learning JS...</i></h1>"); 
 
 console.log("Learning \n JS...");  
   
