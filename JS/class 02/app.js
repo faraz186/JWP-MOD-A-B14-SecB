@@ -3,7 +3,7 @@ alert("Welcome To learning JS...");
 document.write("<h1><i>Learning JS...</i></h1>");
 
 console.log("Learning \n JS...");  
-
+  
 alert("Welcome \n To \n learning JS...");
 
 
