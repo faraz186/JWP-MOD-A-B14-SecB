@@ -36,8 +36,9 @@ var b = 9;
 var c = a/b;
 alert(c)
 
-// var a = 9/3+(4-6)*2
-// alert(a)
+
+var a = 9/3+(4-6)*2
+alert(a)
 
 // var a;
 // a=5;
