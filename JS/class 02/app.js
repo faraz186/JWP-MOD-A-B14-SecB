@@ -52,15 +52,13 @@ alert(y);
 // i-- (Post Decrement)
 // --i (Pre Decrement)
 
-// var a = 5;
-// var b = a++ + ++a;
-5 + 7;
-// alert(b);
+var a = 5;
+var b = a++ + ++a;
+alert(b);
 
-// var x = 3;
-// var y = x++ + x - x-- + --x + ++x - x-- + x + --x - x;
-// 3 + 4 - 4 + 2 + 3 - 3 + 2 + 1 - 1
-// alert(y);
+var x = 3;
+var y = x++ + x - x-- + --x + ++x - x-- + x + --x - x;
+alert(y);
 
 // var a = 2;
 // var b = --a + a + a++ - a-- + a + --a + a-- - a++ - --a;
