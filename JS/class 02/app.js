@@ -60,21 +60,8 @@ var x = 3;
 var y = x++ + x - x-- + --x + ++x - x-- + x + --x - x;
 alert(y);
 
-// var a = 2;
-// var b = --a + a + a++ - a-- + a + --a + a-- - a++ - --a;
-// // 1 + 1 + 1 - 2 + 1 + 0 + 0 - -1 - -1
-// alert(b);
 
+var a = 2;
+var b = --a + a + a++ - a-- + a + --a + a-- - a++ - --a;
 
-var quizApp = 10;
-
-
-// Q1
-
-
-
-
-
-// Q2
-
-
+alert(b);
