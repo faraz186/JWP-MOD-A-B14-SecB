@@ -10,19 +10,23 @@ console.log("The area of circle is " + areaOfCircle);
 
 //   varaible name = variable value
 
-// area of cirlce = 3.141 * 15.23 * 15.23
+area of cirlce = 3.141 * 15.23 * 15.23
+
 
 // there are two types of variable in js
 
 // 1) Variable decalaration
 
-// var num;
+var num;
 
-// console.log(num);
+console.log(num);
+
 
 // 2) Variable decalaration and intialization
 
-// var num = 10;
+var num = 10;
+
+
 
 // Data Types in JS
 
@@ -34,39 +38,46 @@ console.log("The area of circle is " + areaOfCircle);
 
 // null
 
-// var flag = null;
 
-// console.log(flag);
+var flag = null;
 
-// +
+console.log(flag);
 
-// var firstName = 45;
 
-// var lastName = "faraz";
+var num = 45;
 
-// console.log(firstName * lastName);
+var text2 = "faraz";
 
-// console.log(typeof (firstName + lastName));
+console.log(num * text2);
 
-// var firstName = "Muhammad";
+console.log(typeof (num + text2));
 
-// var lastName = "faraz";
 
-// alert(firstName + lastName);
 
-// console.log(firstName + " " + lastName);
+var firstName = "Muhammad";
 
-// console.log(firstName + lastName);
+var lastName = "faraz";
 
-// var num;
+alert(firstName + lastName);
 
-// num = 50;
+console.log(firstName + " " + lastName);
 
-// console.log(num);
+console.log(firstName + lastName);
+
+
+
+var num;
+
+num = 50;
+
+console.log(num);
+
+
 
 // legal variable
 
-// var user = 'faraz';
+var user = 'faraz';
+
 
 // Camel Case
 
@@ -78,6 +89,9 @@ console.log("The area of circle is " + areaOfCircle);
 
 // var fullName;
 
+
+
+
 // Snake Case
 
 // var first_name;
@@ -86,21 +100,28 @@ console.log("The area of circle is " + areaOfCircle);
 
 // var whats_App;
 
+
+
+
 // Pascal Case
 
 // var FirstName;
 
 // var WhatsApp;
 
-// var firstname = 'faraz';
 
-// var lastname = 'faraz';
 
-// var fullname = 'faraz';
+var first_name = 'faraz';
 
-// var username = 'faraz';
+var lastname$ = 'faraz';
 
-// var num1 = 500;
+var _fullname = 'faraz';
+
+var username12 = 'faraz';
+
+var num1 = 500;
+
+
 
 // console.log(num1);
 
