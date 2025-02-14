@@ -120,11 +120,13 @@ var _fullname = 'faraz';
 
 var username12 = 'faraz';
 
+
+
 var num1 = 500;
 
+console.log(num1);
 
 
-// console.log(num1);
 
 // i++  (Post Icrement)
 
@@ -134,23 +136,28 @@ var num1 = 500;
 
 // --i  (Pre-Decrement)
 
-// var num = 5;
+
+var num = 5;
 
 // num = num + 1;
 
-// var num2 = --num;
+var num2 = --num;
 
-// console.log(num2);
+console.log(num2);
 
-// var a = 4;
 
-// var b = 2;
 
-// var exp = a - --b + ++a - --a - --b + a;
+var a = 4;
+
+var b = 2;
+
+var exp = a - --b + ++a - --a - --b + a;
 
 // 4 - 1 + 5 - 4 - 0 + 4;
 
-// console.log(4 - 1 + 5 - 4 - 0 + 4);
+console.log(4 - 1 + 5 - 4 - 0 + 4);
+
+
 
 // JS (ES5)
 // BASIC JS
@@ -159,56 +166,52 @@ var num1 = 500;
 
 // JS (ES6) (Advance JS)
 
-// var firstName = "Muhammad";
 
-// var lastName = "faraz";
 
-// var age = 24;
 
-// console.log("Hello my name is Muhammad faraz and I'm 24 years old.");
+var firstName = "Muhammad";
 
-// alert("Hello my name is ", firstName, lastName, " and I'm ", age, "years old.");
+var lastName = "faraz";
 
-// var li1 = "list1";
-// var li2 = "list2";
-// var li3 = "list3";
+var age = 24;
 
-// document.write("<ul><li>" + li1 + "</li><li>", li2, "</li></ul>");
+console.log("Hello my name is Muhammad faraz and I'm 24 years old.");
 
-// alert("Learning \n JS");
+alert("Hello my name is ", firstName, lastName, " and I'm ", age, "years old.");
 
-// console.log("Learning \n JS");
 
-// document.write("<h1>Learning <br> JS</h1>");
+var li1 = "list1";
+var li2 = "list2";
+var li3 = "list3";
+
+document.write("<ul><li>" + li1 + "</li><li>", li2, "</li></ul>");
+
+
+alert("Learning \n JS");
+
+
+console.log("Learning \n JS");
+
+document.write("<h1>Learning <br> JS</h1>");
+
+
 
 // Prompt
 
-// prompt("Enter email"); // JS builtin function
+prompt("Enter email"); // JS builtin function
 
-// var firstName = prompt("Enter first name");
+var firstName = prompt("Enter first name");
 
-// var lastName = prompt("Enter last name");
+var lastName = prompt("Enter last name");
 
-// console.log("Hello my name is ", firstName, lastName);
+console.log("Hello my name is ", firstName, lastName);
 
-// var firstName = +prompt("Enter first nnumber");
 
-// var lastName = +prompt("Enter second number");
+// add two numbers
 
-// console.log(firstName + lastName);
 
-// chapter 01 (Alert)
+var firstNum = +prompt("Enter first number");
 
-// q1
+var secondNum = +prompt("Enter second number");
 
-alert("Welcome user");
-
-// q2
-
-alert("Error please enter a valid password");
-
-// q4
-
-alert("Welcome to JS Land");
-
-alert();
+console.log(firstName + lastName);
