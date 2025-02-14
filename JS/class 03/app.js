@@ -2,11 +2,11 @@
 
 // Q: find the area of circle where the radius is 15.23
 
-// var radius = 15.23;
+var radius = 15.23;
 
-// var areaOfCircle = 3.141 * radius * radius;
+var areaOfCircle = 3.141 * radius * radius;
 
-// console.log("The area of circle is " + areaOfCircle);
+console.log("The area of circle is " + areaOfCircle);
 
 //   varaible name = variable value
 
