@@ -1,5 +1,5 @@
 // what is array?
-         
+          
 var arr = ["karachi", "lahore", "quetta"];
 
 var copy = arr.slice(1, 3);
