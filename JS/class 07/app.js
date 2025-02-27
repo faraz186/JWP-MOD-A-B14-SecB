@@ -1,5 +1,5 @@
 var userInput = prompt("Enter your city name?");
-     
+      
 var citiesArr = ["Karachi", "Lahore", "Multan"];
  
 var flag = false;
