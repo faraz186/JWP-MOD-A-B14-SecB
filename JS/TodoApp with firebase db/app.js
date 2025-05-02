@@ -10,7 +10,7 @@ var firebaseConfig = {
  
 // Initialize Firebase
 var app = firebase.initializeApp(firebaseConfig);
-
+ 
 firebase
   .database()
   .ref("todos")
