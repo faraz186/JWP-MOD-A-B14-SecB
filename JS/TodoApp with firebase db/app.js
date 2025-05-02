@@ -15,7 +15,7 @@ firebase
   .database()
   .ref("todos")
   .on("child_added", function (data) {
-    console.log(data.val());
+    console.log(data.val()); 
 
     var liELement = document.createElement("li");
 
