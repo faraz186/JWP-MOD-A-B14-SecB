@@ -4,7 +4,7 @@ var firebaseConfig = {
   databaseURL: "https://todoapp-5c2a4-default-rtdb.firebaseio.com",
   projectId: "todoapp-5c2a4",
   storageBucket: "todoapp-5c2a4.firebasestorage.app",
-  messagingSenderId: "99782828360",
+  messagingSenderId: "99782828360", 
   appId: "1:99782828360:web:d80874b2f76aab13c3d37d",
 };
 
