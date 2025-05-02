@@ -19,7 +19,7 @@ firebase
 
     var liELement = document.createElement("li");
 
-    var ulElement = document.getElementById("items_data"); 
+    var ulElement = document.getElementById("items_data");  
  
     //   create delete button element with DOM
 
